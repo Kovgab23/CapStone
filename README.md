@@ -1,5 +1,5 @@
-# CapStone
+# CapStone Project for IBM data science program
 
-## Editing the file
+## Repository of exam files
 
-Its a markdown file in this repository
+Above files are here as proof of accomplishment.
